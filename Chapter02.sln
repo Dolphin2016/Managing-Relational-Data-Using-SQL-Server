@@ -5,13 +5,15 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Console.SqlClient", "Northwind.Console.SqlClient\Northwind.Console.SqlClient.csproj", "{2691F9B9-3E87-4EA3-B1AF-8E18C5248D7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Console.EFCore", "Northwind.Console.EFCore\Northwind.Console.EFCore.csproj", "{357943BC-7FED-48BB-9C1F-E5CF062043EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Console.EFCore", "Northwind.Console.EFCore\Northwind.Console.EFCore.csproj", "{357943BC-7FED-48BB-9C1F-E5CF062043EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Console.HierarchyMapping", "Northwind.Console.HierarchyMapping\Northwind.Console.HierarchyMapping.csproj", "{79A5C389-E680-45E7-B593-A8F235FA1360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Console.HierarchyMapping", "Northwind.Console.HierarchyMapping\Northwind.Console.HierarchyMapping.csproj", "{79A5C389-E680-45E7-B593-A8F235FA1360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.SqlServer", "Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj", "{2AA28220-00D8-4297-914F-1BD26C322FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.EntityModels.SqlServer", "Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj", "{2AA28220-00D8-4297-914F-1BD26C322FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.DataContext.SqlServer", "Northwind.Common.DataContext.SqlServer\Northwind.Common.DataContext.SqlServer.csproj", "{8A3B0BC2-E6E8-417E-8DF7-435B40E0B6C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.DataContext.SqlServer", "Northwind.Common.DataContext.SqlServer\Northwind.Common.DataContext.SqlServer.csproj", "{8A3B0BC2-E6E8-417E-8DF7-435B40E0B6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.Tests", "Northwind.Common.EntityModels.Tests\Northwind.Common.EntityModels.Tests.csproj", "{1B5C0964-E2EF-4E63-B3DD-779D2491AD07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8A3B0BC2-E6E8-417E-8DF7-435B40E0B6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A3B0BC2-E6E8-417E-8DF7-435B40E0B6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A3B0BC2-E6E8-417E-8DF7-435B40E0B6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5C0964-E2EF-4E63-B3DD-779D2491AD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5C0964-E2EF-4E63-B3DD-779D2491AD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5C0964-E2EF-4E63-B3DD-779D2491AD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5C0964-E2EF-4E63-B3DD-779D2491AD07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
