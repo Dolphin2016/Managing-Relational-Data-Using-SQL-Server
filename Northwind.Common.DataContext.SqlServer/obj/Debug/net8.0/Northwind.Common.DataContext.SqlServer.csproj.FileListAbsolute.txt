@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.CopyComplete
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\refint\Northwind.Common.DataContext.SqlServer.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\ref\Northwind.Common.DataContext.SqlServer.dll

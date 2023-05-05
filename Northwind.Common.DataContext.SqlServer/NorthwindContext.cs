@@ -6,6 +6,8 @@ namespace Packt.Shared;
 
 public partial class NorthwindContext : DbContext
 {
+    private static readonly SetLastRefreshedInterceptor setLastRefreshedInterceptor = new();
+
     public NorthwindContext()
     {
     }
@@ -70,7 +72,13 @@ public partial class NorthwindContext : DbContext
     public virtual DbSet<Territory> Territories { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=eugene-pc\\dev;Initial Catalog=Northwind;Integrated Security=true;TrustServerCertificate=True;");
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            optionsBuilder.UseSqlServer("Data Source=eugene-pc\\dev;Initial Catalog=Northwind;Integrated Security=true;TrustServerCertificate=True;");
+        }
+        optionsBuilder.AddInterceptors(setLastRefreshedInterceptor);
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
