@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
+using System.Data;
 
 SqlConnectionStringBuilder builder = new();
 
@@ -97,5 +98,40 @@ catch (SqlException ex)
     WriteLine($"SQL exception: {ex.Message}");
     return;
 }
+
+Write("Enter a unit price: ");
+string? priceText = ReadLine();
+
+if (!decimal.TryParse(priceText, out decimal price))
+{
+    WriteLine("You must enter a valid unit price.");
+    return;
+}
+
+SqlCommand cmd = connection.CreateCommand();
+
+cmd.CommandType = CommandType.Text;
+cmd.CommandText = "SELECT ProductId, ProductName, UnitPrice FROM Products"
+    + " WHERE UnitPrice > @price";
+
+cmd.Parameters.AddWithValue("price", price);
+
+SqlDataReader r = cmd.ExecuteReader();
+
+WriteLine("----------------------------------------------------------");
+WriteLine("| {0,5} | {1,-35} | {2,8} |", "Id", "Name", "Price");
+WriteLine("----------------------------------------------------------");
+
+while (r.Read())
+{
+    WriteLine("| {0,5} | {1,-35} | {2,8:C} |",
+        r.GetInt32("ProductId"),
+        r.GetString("ProductName"),
+        r.GetDecimal("UnitPrice"));
+}
+
+WriteLine("----------------------------------------------------------");
+
+r.Close();
 
 connection.Close();
