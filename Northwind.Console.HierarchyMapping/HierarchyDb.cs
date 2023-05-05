@@ -20,7 +20,8 @@ public class HierarchyDb : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Person>()
-            .UseTphMappingStrategy();
+            //.UseTphMappingStrategy();
+            .UseTptMappingStrategy();
 
         // Populate database with sample data.
 
