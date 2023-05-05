@@ -1,0 +1,14 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\ref\Northwind.Common.EntityModels.SqlServer.dll
